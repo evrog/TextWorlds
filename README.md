@@ -16,14 +16,39 @@ The theory opens a perspective to computationally study and model narrative stru
 
 ## Annotation schemes
 
-This repository contains XML-files annotated with two annotation schemes. The first one was employed in annotation of "The 
-Gift of the Magi" (see files starting with "Magi"). The guidelines for this scheme are in the text file in this repository.
-The second scheme was used in the rest of the files (all in Russian). This scheme separates two levels of annotation:
-that of the world text elements (characters, space and time) and shifts (switches between the text worlds). The Russian 
-guidelines to this scheme are given here:
+This repository contains XML-files annotated with two annotation schemes.
+
+**Scheme 1** was employed in annotation of "The 
+Gift of the Magi" (see files starting with "Magi"). This scheme included immediate annotation of text world elements: 
+time, place and characters, and shifts in time and space. As the latter can happen not only on the lexical level, we
+added automatic morphological markup of verb tenses, performed with nltk (e.g. "There was *VBD* clearly nothing to do *VB*").
+The guidelines for this scheme are in the file https://github.com/evrog/TextWorlds/blob/master/Annotation_guidelines_scheme_1.md
+in this repository.
+
+**Scheme 2** was used in the rest of the files (all in Russian). This scheme separates two levels of annotation:
+that of the world text elements (characters, space and time) and shifts (switches between the text worlds). The two 
+levels were annotated separately, not necessariliy by the same annotator. The Russian guidelines to this scheme are given here:
 
 1. Annotation of elements: https://docs.google.com/document/d/e/2PACX-1vRUhO_ab4AFz1lSIuqf_ZifZWZQZyQJeNR2FHv720vUTgHkAhr1lmtrduMSK8KeJA/pub
 2. Annotation of shifts: https://docs.google.com/document/d/e/2PACX-1vS2HPn-MjWZhMp-wF8sMH4uyq4Jjo0DQ0-eecR92XlRWd3Ph495KpYDyV9t66Dk3g/pub 
+
+The following table demonstrates how many texts were annotated with elements and shifts with Scheme 2. Titles are abbreviated. 
+See the ful descriptions of text sources below.
+
+TITLE    | Elements | Shifts
+---------|----------|--------
+Потец    | 1        | 1
+Попугай  | 1        | 5
+Мирная   | 1        | 1
+Лягушка  | 1        | 1
+Лисичка  | 6        | 0
+Лампа    | 2        | 0
+Иванушка | 2        | 2
+Дочь     | 5        | 3
+Волк     | 4        | 1
+Умный    | 1        | 0
+Они      | 1        | 0
+Визит    | 1        | 0
 
 ## Comparative tables
 
