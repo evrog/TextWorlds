@@ -33,7 +33,7 @@ levels were annotated separately, not necessariliy by the same annotator. The Ru
 2. Annotation of shifts: https://docs.google.com/document/d/e/2PACX-1vS2HPn-MjWZhMp-wF8sMH4uyq4Jjo0DQ0-eecR92XlRWd3Ph495KpYDyV9t66Dk3g/pub 
 
 The following table demonstrates how many texts were annotated with elements and shifts with Scheme 2. Titles are abbreviated. 
-See the ful descriptions of text sources below.
+See extended description of text sources below.
 
 TITLE    | Elements | Shifts
 ---------|----------|--------
