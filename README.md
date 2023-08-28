@@ -1,7 +1,7 @@
 # TextWorlds
 
-AUTHORS: Elena Mikhalkova, Timofei Protasov, Polina Gavin, Anastasiya Bashmakova, Anastasiya Drozdova
-Univesity of Tyumen, 2018-2021
+AUTHORS: Elena Mikhalkova, Timofei Protasov, Polina Gavin, Anastasiya Bashmakova, Anastasiya Drozdova, Alexander Zhmykhov
+Univesity of Tyumen, 2018-2023
 
 This repository contains data and processing files of our project "Text Worlds".
 
